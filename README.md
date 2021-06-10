@@ -1,4 +1,4 @@
-Project DeGiro API for MATLAB
+Project (Unofficial) DeGiro API for MATLAB
 
 ** UNDER CONSTRUCTION **
 
